@@ -1,0 +1,22 @@
+{
+    "version": "3.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/siphyshu/wallpy/releases/download/v3.0.0/wallpy_3.0.0_windows_amd64.zip",
+            "bin": [
+                "wallpy.exe"
+            ],
+            "hash": "b11577f439ff3d42e62b02e268037c183ff7e9e3a3d8318cbe8ec540880e7f3e"
+        },
+        "arm64": {
+            "url": "https://github.com/siphyshu/wallpy/releases/download/v3.0.0/wallpy_3.0.0_windows_arm64.zip",
+            "bin": [
+                "wallpy.exe"
+            ],
+            "hash": "ddc8f791ecc033497c3ee5fc4607740856c237924d9b792cd7dc0ff652e12bc7"
+        }
+    },
+    "homepage": "https://wallpy.siphyshu.me",
+    "license": "MIT",
+    "description": "Dynamic wallpapers for your desktop."
+}
